@@ -1,0 +1,9 @@
+RewriteEngine On
+
+RewriteRule ^request request.php
+RewriteRule ^school-admin s-admin.php
+RewriteRule ^select-login select-login.php
+RewriteRule ^register register.php
+RewriteRule ^admin-login admin-login.php
+RewriteRule ^student-login student-login.php
+RewriteRule ^teacher-login teacher-login.php
